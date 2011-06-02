@@ -7,6 +7,5 @@
 	<classpathentry kind="lib" path="lib/metadata/metadata-extractor-2.5.0-RC1-src.jar"/>
 	<classpathentry kind="lib" path="lib/metadata/metadata-extractor-2.5.0-RC1.jar"/>
 	<classpathentry kind="lib" path="lib/metadata/xmpcore.jar"/>
-	<classpathentry kind="lib" path="lib/gui/appframework-1.0.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
